@@ -8,5 +8,6 @@ This project implements discrete choice models using and mixed logit model on th
 
 ## Installation
 xlogit requires Python 3.6 or later and it can be easily installed using pip as follows:
+```bash
 pip install xlogit
 
